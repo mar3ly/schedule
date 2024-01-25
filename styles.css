@@ -1,0 +1,25 @@
+table,
+th,
+td {
+    border: 1px solid
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-image: url(https://www.legat.com/wp-content/uploads/2022/12/JohnHancockHighSchool-ENRMidwest-BestProject-Feature-1.jpg);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size:cover;
+    }
+
+
+table {
+        color: rgb(150, 113, 113);
+        background-color: antiquewhite;
+    }
+
+    
